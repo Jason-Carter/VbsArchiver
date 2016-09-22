@@ -1,0 +1,2 @@
+cscript Archive_Not_Processed_Folders.vbs
+pause
